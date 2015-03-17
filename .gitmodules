@@ -1,0 +1,3 @@
+[submodule "PrivateLibs"]
+	path = PrivateLibs
+	url = https://github.com/SPCoopIT/PrivateLibs.git
